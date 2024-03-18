@@ -6,15 +6,15 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
-    weight: 20
-  - name: Solutions
+  - name: Programme Schedule
     url: /#solutions
+    weight: 20
+  - name: Registration Fees
+    url: /Registration Fees
     weight: 30
-  - name: Resources
+  - name: Registration Page
     weight: 40
     hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+  - parent: Module Coordinators
+    name: Profiles
+    url: post/
