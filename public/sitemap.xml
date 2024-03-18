@@ -58,13 +58,13 @@
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/registration-fees/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/author/alex-cook/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/registration-fees/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/people/</loc>
